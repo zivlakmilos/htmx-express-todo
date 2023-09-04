@@ -4,6 +4,7 @@
   "description": "HTML Express ToDo",
   "main": "src/main.js",
   "scripts": {
+    "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/zivlakmilos/htmx-express-todo/issues"
   },
-  "homepage": "https://github.com/zivlakmilos/htmx-express-todo#readme"
+  "homepage": "https://github.com/zivlakmilos/htmx-express-todo#readme",
+  "devDependencies": {
+    "@types/ejs": "^3.1.2",
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.5.9",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
 }
