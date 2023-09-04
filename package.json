@@ -1,0 +1,24 @@
+{
+  "name": "htmx-express-todo",
+  "version": "1.0.0",
+  "description": "HTML Express ToDo",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivlakmilos/htmx-express-todo.git"
+  },
+  "keywords": [
+    "htmx",
+    "epxress",
+    "todo"
+  ],
+  "author": "Milos Zivlak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zivlakmilos/htmx-express-todo/issues"
+  },
+  "homepage": "https://github.com/zivlakmilos/htmx-express-todo#readme"
+}
